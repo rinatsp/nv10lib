@@ -1,5 +1,8 @@
-"name": "NV10",
-"version": "0.0.1",
-"author": "Phil",
-"license": "MIT",
-"description": "Library für NV10 Notenleser im Pulse-Mode"
+{
+  "name": "NV10",
+  "author": "phil",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Library für NV10 Notenleser im Pulsemode",
+  "namespace": "Phil-NV10"
+}
